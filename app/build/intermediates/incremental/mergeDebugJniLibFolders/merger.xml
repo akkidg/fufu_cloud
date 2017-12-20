@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\app updates backup\vfsamplesbooks\samples\app\src\main\jniLibs"/><source path="F:\app updates backup\build\lib"/></dataSet><dataSet config="debug"><source path="F:\app updates backup\vfsamplesbooks\samples\app\src\debug\jniLibs"/></dataSet></merger>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rating_full.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\rating_full.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_close_normal.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\button_close_normal.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_view_background.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\custom_view_background.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_close_pressed.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\button_close_pressed.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\badge_background.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\badge_background.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\custom_view_strikethrough.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\custom_view_strikethrough.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\rating_empty.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-mdpi\\rating_empty.png"
+    }
+]

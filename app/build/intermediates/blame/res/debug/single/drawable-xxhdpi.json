@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\badge_background.png",
+        "source": "F:\\app updates backup\\vfsamplesbooks\\samples\\app\\src\\main\\res\\drawable-xxhdpi\\badge_background.png"
+    }
+]

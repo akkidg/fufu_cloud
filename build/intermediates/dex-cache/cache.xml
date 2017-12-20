@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\app updates backup\vfsamplesbooks\samples\app\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0 rc2"
+        sha1="ea4d543e6035333459e815f2e49632cafa536b64">
+        <dex dex="F:\app updates backup\vfsamplesbooks\samples\app\build\intermediates\pre-dexed\debug\Vuforia_264def2ed08d927e73984303ba307aced1b31dbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\app updates backup\vfsamplesbooks\samples\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0 rc2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="F:\app updates backup\vfsamplesbooks\samples\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_fc232ba6d14b8242c6c5ca30785eae2c281f6cd7.jar" />
+    </item>
+
+</items>
